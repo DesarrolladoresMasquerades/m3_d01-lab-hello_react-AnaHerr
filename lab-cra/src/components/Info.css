@@ -1,0 +1,9 @@
+.info-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.icon{
+    padding-left: 30px;
+}
